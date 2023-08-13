@@ -1,5 +1,5 @@
 # text-generator-app
- application that generates text based on LSTM Network
+Flask based web application that generates text based on LSTM Network
 
 ## Execution
 1. clone this repo
